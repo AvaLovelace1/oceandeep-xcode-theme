@@ -1,5 +1,7 @@
 # oceandeep-xcode-theme
-A dark theme for Xcode full of calming blues and greens. Created by Ava Pun, based on [Tom Regner's oceandeep theme for Vim](https://github.com/vim-scripts/oceandeep).
+Oceandeep: a dark theme for Xcode full of calming blues and greens. Created by Ava Pun, based on [Tom Regner's oceandeep theme for Vim](https://github.com/vim-scripts/oceandeep).
+
+![alt text](https://github.com/AvaLovelace1/oceandeep-xcode-theme/blob/master/screenshot-1.png?raw=true "screenshot-1")
 
 ## Installation
 1. Copy the .xccolortheme file into the following directory:
